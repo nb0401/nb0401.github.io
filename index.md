@@ -22,7 +22,7 @@ With these insights, the high ordering customers could be advertised more effici
 In this open data project, the goal was to analyze the drug consumption situation in Europe during the pandemic, using datasets of metabolites in the wastewater. Furthermore, the correlation of specific drug consumption relationships was observed.<br>
 #### Action<br>
 After cleaning, merging, and a descriptive analysis, the drug consumption combinations with the highest correlation were further analyzed and tested. At this point, due to data limitations, the dataset had to be synthetically enhanced. Finally, the relationship of specific drug consumption behaviours was analyzed, to gain insights about possible synergy effects, useable to minimalize overall drug consumption.<br><br>
-<img src="images/Metabolites 1.png"/><br>
+<img src="images/Diff Weekend Weekday.png"/><br>
 <img src="images/Coc Daily mean x Can Daily mean.png"/><br>
 #### Result <br>
 With the newfound insights, the impact of the COVID-19 pandemic on the drug consumption could be observed. Looking at the correlations between the drug consumption combinations, the fight against drug abuse has to be viewed as a whole project, and not as an individual conflict for each drug.<br><br><br>
