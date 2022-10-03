@@ -2,7 +2,7 @@
 
 ---
 
-## Python
+## Python (& Tableau)
 
 ---
 
@@ -16,6 +16,7 @@ After cleaning and merging multiple datasets, a variable system was created to s
 #### Result<br>
 With these insights, the high ordering customers could be advertised more efficiently. Furthermore, these customer groups give opportunity to raise them into more frequent customers, potentially increasing the earnings.<br><br><br>
 
+---
 
 [Metabolites in the Wastewater](https://github.com/nb0401/Data-Analytics-Course/tree/main/5.%20Project%20-%20Open%20Data%20Project)<br>
 #### Challenge<br>
@@ -25,7 +26,32 @@ After cleaning, merging, and a descriptive analysis, the drug consumption combin
 <img src="images/Diff Weekend Weekday.png"/><br>
 <img src="images/Coc Daily mean x Can Daily mean.png"/><br>
 #### Result <br>
-With the newfound insights, the impact of the COVID-19 pandemic on the drug consumption could be observed. Looking at the correlations between the drug consumption combinations, the fight against drug abuse has to be viewed as a whole project, and not as an individual conflict for each drug.<br><br><br>
+With the newfound insights, the impact of the COVID-19 pandemic on the drug consumption could be observed. Looking at the correlations between the drug consumption combinations, the fight against drug abuse has to be viewed as a whole project, and not as an individual conflict for each drug.<br><br>
+[For further information visit the Tableau presentation](https://public.tableau.com/app/profile/nb7086/viz/UsingMetabolitesintheWastewatertomeasureDrugConsumption/Story1)<br><br>
+
+---
+
+## SQL & Tableau
+
+---
+
+[Rockbuster Stealth LLC - Online Video Rental](https://github.com/nb0401/Data-Analytics-Course/tree/main/3.%20Project%20-%20SQL)<br>
+#### Challenge<br>
+Working with PostgreSQL, a dataset of an online movie rental service was analyzed with the goal to gain insights about the inventory performance and the customer base.<br>
+#### Action<br>
+Starting with the cleaning of data and a basic descriptive analysis, using SQL, the movie categories were ranked by popularity and earnings. Furthermore, the countries with the most profits were ranked and further analyzed to gain the insights needed for the management board. Lastly, a Tableau presentation was created to communicate the found facts.<br><br>
+<img src="images/Rockbuster 1.jpg"/><br>
+<img src="images/Rockbuster 3.png"/><br>
+#### Result<br>
+With the newfound insights, the movie inventory can be reduced and optimized with popular categories. Additionally, countries with already high earnings per customer can be further advertised to increase the earnings or the existing customer base.<br><br><br>
+
+---
+
+## Excel (& Tableau)
+
+
+
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
