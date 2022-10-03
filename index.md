@@ -6,7 +6,7 @@
 
 ---
 
-[Instacart Grocery Basket Analysis]([/sample_page](https://github.com/nb0401/Data-Analytics-Course/tree/main/4.%20Project%20-%20Python)) <br>
+[Instacart Grocery Basket Analysis](https://github.com/nb0401/Data-Analytics-Course/tree/main/4.%20Project%20-%20Python) <br>
 #### Challenge<br>
 Using a dataset from an online grocery store, the goal was to gain new insights about customer sales pattern and their order behaviour with Python and Jupyter.<br>
 #### Action<br>
@@ -16,6 +16,7 @@ After cleaning and merging multiple datasets, a variable system was created to s
 #### Result<br>
 With these insights, the high ordering customers could be advertised more efficiently. Furthermore, these customer groups give opportunity to raise them into more frequent customers, potentially increasing the earnings.<br>
 
+[Metabolites in the Wastewater]
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
