@@ -31,7 +31,7 @@ With the newfound insights, the impact of the COVID-19 pandemic on the drug cons
 
 ---
 
-## SQL & Tableau
+## SQL (& Tableau)
 
 ---
 
